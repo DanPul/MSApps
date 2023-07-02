@@ -1,0 +1,22 @@
+.Layout {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Layout > nav {
+    display: flex;
+    justify-content: center;
+    max-height: 30px;
+    margin-top: 25px;
+}
+
+.Layout > main {
+    margin-top: 60px;
+}
+
+.Layout > footer {
+    margin-top: 30px;
+    margin-top: auto;
+}

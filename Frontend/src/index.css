@@ -1,0 +1,11 @@
+html {
+    background-image: linear-gradient(45deg, coral, whitesmoke);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    text-align: center;
+}

@@ -1,0 +1,11 @@
+.PhotosList {
+    display: inline-grid;
+    gap: 30px;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    align-items: center;
+}
+
+.PhotosList img {
+    width: 240px;
+}
